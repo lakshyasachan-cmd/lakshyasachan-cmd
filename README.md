@@ -15,7 +15,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lakshyasachan-cmd&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
-![]([https://streak-stats.demolab.com/?user=lakshyasachan-cmd&theme=dark&hide_border=false](https://cloud.meshery.io/user/a957e6e3-db39-457f-b3b5-c2319c00edda?tab=badges&badge=certified-meshery-contributor))
+![](https://cloud.meshery.io/user/a957e6e3-db39-457f-b3b5-c2319c00edda?tab=badges&badge=certified-meshery-contributor)
 
 ---
 [![](https://komarev.com/ghpvc/?username=lakshyasachan-cmd&icon=0&color=0)](https://visitcount.itsvg.in)
